@@ -1,5 +1,9 @@
-WELCOME TO SNAKE-GAME REPOSITORY!
-This is a small and simple version of snake game created based on our childhood experiences with button phones!
+# WELCOME TO SNAKE-GAME REPOSITORY !
 
-Language used: JAVA
-IDE used: Eclipse
+## I. Simple Version of the evergreen Snake Game 🐍 : "SnAkE GaMe"
+
+### Details about our implementation
+
+- **A programming language used to implement the game** : Python
+
+- **IDE used to for ccoding** : Eclipse
