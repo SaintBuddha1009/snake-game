@@ -6,4 +6,4 @@
 
 - **A programming language used to implement the game** : Python
 
-- **IDE used to for ccoding** : Eclipse
+- **IDE used to for coding** : Eclipse
