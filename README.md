@@ -14,5 +14,7 @@
 ### Imports needed:
 - **java.awt:**  Contains all of the classes for creating user interfaces and for painting graphics and images.
 
-- **javax.swing.JFrame:** The javax.swing.JFrame class is a type of container which inherits the java.awt.Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI. Unlike Frame, JFrame has the option to hide or close the window with the help of setDefaultCloseOperation(int) method.
+- **javax.swing.JFrame:** The javax.swing.JFrame class is a type of container which inherits the java.awt.Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI. JFrame has the option to hide or close the window with the help of setDefaultCloseOperation() method.
+
+**ENJOY PLAYING!!**
 
