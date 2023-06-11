@@ -7,3 +7,6 @@
 - **A programming language used to implement the game** : Python
 
 - **IDE used to for coding** : Eclipse
+
+### How to use:
+**Download code from repository**
