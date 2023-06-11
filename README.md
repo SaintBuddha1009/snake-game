@@ -9,7 +9,7 @@
 - **IDE used to for coding** : Eclipse
 
 ### How to use:
-- **Download code from repository or Copy paste given code from file**
+- Download code from repository **or** Copy paste given code from file
 
 ### Imports needed:
 - **java.awt:**  Contains all of the classes for creating user interfaces and for painting graphics and images.
