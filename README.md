@@ -2,7 +2,7 @@
 
 ## I. Simple Version of the evergreen Snake Game 🐍 : "SnAkE GaMe"
 
-### Details about our implementation
+### Details about implementation:
 
 - **A programming language used to implement the game** : Python
 
