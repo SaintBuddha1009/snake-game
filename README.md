@@ -10,7 +10,7 @@
 
 ### How to use:
 - **Download code from repository**
-- **or**
+**or**
 - **Copy paste given code from file**
 
 ### Imports needed:
