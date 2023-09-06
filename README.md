@@ -4,7 +4,7 @@
 
 ### Details about implementation:
 
-- **A programming language used to implement the game** : JAVA
+- **Programming language used to implement the game** : JAVA
 
 - **IDE used to for coding** : Eclipse
 
